@@ -1,0 +1,36 @@
+# Laravel
+/laravel_app/vendor/
+/laravel_app/node_modules/
+/laravel_app/.env
+/laravel_app/storage/*.key
+/laravel_app/storage/logs/
+/laravel_app/storage/framework/cache/*
+/laravel_app/storage/framework/sessions/*
+/laravel_app/storage/framework/views/*
+/laravel_app/bootstrap/cache/*
+
+# Python
+/python_service/venv/
+/python_service/__pycache__/
+/python_service/*.pyc
+/python_service/*.pyo
+/python_service/.pytest_cache/
+/python_service/config.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
