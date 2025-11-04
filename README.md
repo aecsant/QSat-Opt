@@ -266,9 +266,11 @@ PYTHON_SERVICE_URL=http://127.0.0.1:5005
 
 ---
 
-## 📄 License
+## 📄 License and Copyright
 
-This project is open-source and available under the MIT License.
+This project is NOT open-source.
+
+© 2022-2024 Santosh Kumar, brahmcs.co.in. All rights reserved.
 
 ---
 
@@ -295,4 +297,3 @@ For issues, questions, or contributions, please contact the development team at 
 ---
 
 **Built with ❤️ using Quantum Computing & Modern Web Technologies**
-
