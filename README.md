@@ -1,6 +1,8 @@
 # QSat-Opt
 QSat-Opt leverages quantum computing principles (via Qiskit QAOA) to optimize satellite communication windows, helping ground stations maximize their coverage and efficiency.
 
+# Author 
+Santosh Kumar, 9011268630, aecsant@gmail.com
 
 # QSat-Opt - Quantum Satellite Pass Optimization
 
